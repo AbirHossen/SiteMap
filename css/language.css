@@ -1,0 +1,12 @@
+.title-image{
+  width: 90%;
+}
+a{
+  text-decoration: none;
+}
+.language-info{
+  text-align: left;
+}
+.language-info p{
+  line-height: 1.8;
+}
